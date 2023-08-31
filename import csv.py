@@ -2,10 +2,10 @@ import csv
 
 # Dados de exemplo
 dados = [
-    ["Produto", "CodProduto", "Valor"],
-    ["Arroz", 1, "7,00"],
-    ["Feijão", 2, "7,00"],
-    ["Batata", 3, "5,00"]
+    ["Nome", "Idade", "Cidade"],
+    ["João", 25, "São Paulo"],
+    ["Maria", 30, "Rio de Janeiro"],
+    ["Carlos", 22, "Belo Horizonte"]
 ]
 
 # Escrever os dados no arquivo CSV
